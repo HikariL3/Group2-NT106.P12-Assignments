@@ -12,3 +12,6 @@
 
 23521823 - Nguyễn Quốc Vương    - 
 
+## KHÁC
+#### Đây là đồ án môn học của nhóm: 
+https://github.com/HikariL3/Group_2-NT106.P12-Project.git
