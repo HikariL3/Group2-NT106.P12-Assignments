@@ -104,7 +104,7 @@
             // sign
             // 
             this.sign.BackColor = System.Drawing.Color.AntiqueWhite;
-            this.sign.Font = new System.Drawing.Font("Gadugi", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sign.Font = new System.Drawing.Font("Gadugi", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sign.Location = new System.Drawing.Point(28, 330);
             this.sign.Name = "sign";
             this.sign.Size = new System.Drawing.Size(65, 65);
@@ -344,6 +344,7 @@
             this.Controls.Add(this.four);
             this.Controls.Add(this.seven);
             this.Controls.Add(this.textBox1);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimizeBox = false;
