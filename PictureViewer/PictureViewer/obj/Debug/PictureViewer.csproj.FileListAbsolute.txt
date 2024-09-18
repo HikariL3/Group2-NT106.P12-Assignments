@@ -1,0 +1,10 @@
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Programming\C# and winform\week_2\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb

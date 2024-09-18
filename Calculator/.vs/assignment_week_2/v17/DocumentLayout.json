@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C# and winform\\assignment_week_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38434EF4-A4F3-4652-94A9-859BD6D50276}|assignment_week_2\\assignment_week_2.csproj|C:\\Programming\\C# and winform\\assignment_week_2\\assignment_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38434EF4-A4F3-4652-94A9-859BD6D50276}|assignment_week_2\\assignment_week_2.csproj|solutionrelative:assignment_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38434EF4-A4F3-4652-94A9-859BD6D50276}|assignment_week_2\\assignment_week_2.csproj|c:\\programming\\c# and winform\\assignment_week_2\\assignment_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38434EF4-A4F3-4652-94A9-859BD6D50276}|assignment_week_2\\assignment_week_2.csproj|solutionrelative:assignment_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programming\\C# and winform\\assignment_week_2\\assignment_week_2\\Form1.cs",
+              "RelativeDocumentMoniker": "assignment_week_2\\Form1.cs",
+              "ToolTip": "C:\\Programming\\C# and winform\\assignment_week_2\\assignment_week_2\\Form1.cs",
+              "RelativeToolTip": "assignment_week_2\\Form1.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:29:59.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\C# and winform\\assignment_week_2\\assignment_week_2\\Form1.cs",
+              "RelativeDocumentMoniker": "assignment_week_2\\Form1.cs",
+              "ToolTip": "C:\\Programming\\C# and winform\\assignment_week_2\\assignment_week_2\\Form1.cs [Design]",
+              "RelativeToolTip": "assignment_week_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:29:36.159Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
