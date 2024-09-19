@@ -1,0 +1,10 @@
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.AssemblyReference.cache
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+D:\University Stuff\3. HK1 2024 - 2025\NT106\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
