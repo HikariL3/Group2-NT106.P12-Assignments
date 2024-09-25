@@ -1,0 +1,10 @@
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File_Explorer.File_Explorer.resources

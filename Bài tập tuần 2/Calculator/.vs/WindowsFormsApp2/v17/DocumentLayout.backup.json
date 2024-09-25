@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\",
+  "WorkspaceRootPath": "D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\document\\n\u0103m 2\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\group2-nt106.p12-assignments\\b\u00E0i t\u1EADp tu\u1EA7n 2\\calculator\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\huong\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481BF23A-D2F5-4322-B5D6-98D5B1962BF2}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\WindowsFormsApp2\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAAAJEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\HUONG\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [Design]",
+              "ToolTip": "D:\\Document\\N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Group2-NT106.P12-Assignments\\B\u00E0i t\u1EADp tu\u1EA7n 2\\Calculator\\WindowsFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T13:22:03.875Z",

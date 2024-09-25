@@ -1,0 +1,20 @@
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+C:\Users\HUONG\source\repos\File Explorer\File Explorer\obj\Debug\File_Explorer.File_Explorer.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.AssemblyReference.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File_Explorer.File_Explorer.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CoreCompileInputs.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
