@@ -1,0 +1,10 @@
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.AssemblyReference.cache
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Form1.resources
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.cache
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+E:\C# and winform\week_2\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
