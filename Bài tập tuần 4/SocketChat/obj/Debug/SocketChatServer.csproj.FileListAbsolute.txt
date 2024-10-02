@@ -1,0 +1,10 @@
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.exe.config
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.pdb
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.AssemblyReference.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.GenerateResource.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.CoreCompileInputs.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.pdb
+D:\Document\Năm 2\Lập trình mạng căn bản\SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.Server.resources
