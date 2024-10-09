@@ -1,0 +1,10 @@
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.ClientForm.resources
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C# and winform\MutipleClient\Client\bin\Debug\Client.exe.config
+E:\C# and winform\MutipleClient\Client\bin\Debug\Client.exe
+E:\C# and winform\MutipleClient\Client\bin\Debug\Client.pdb
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.exe
+E:\C# and winform\MutipleClient\Client\obj\Debug\Client.pdb
