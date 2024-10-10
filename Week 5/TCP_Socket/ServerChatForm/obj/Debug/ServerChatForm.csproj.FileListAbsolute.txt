@@ -1,0 +1,19 @@
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.exe.config
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.exe
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.pdb
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.csprojAssemblyReference.cache
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.Form1.resources
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.Properties.Resources.resources
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.csproj.GenerateResource.cache
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.exe
+C:\Users\Rosen HCMC\source\repos\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.pdb
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.exe.config
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\bin\Debug\ServerChatForm.pdb
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.csproj.AssemblyReference.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.Form1.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.Properties.Resources.resources
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.csproj.GenerateResource.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.csproj.CoreCompileInputs.cache
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.exe
+D:\Document\Năm 2\Lập trình mạng căn bản\TCP_UDP\LMCB_TestForm(PrivateChat)\LMCB_TestForm\ServerChatForm\obj\Debug\ServerChatForm.pdb

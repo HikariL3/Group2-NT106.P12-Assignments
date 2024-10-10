@@ -1,0 +1,20 @@
+E:\C# and winform\MutipleClient\Server\bin\Debug\Server.exe.config
+E:\C# and winform\MutipleClient\Server\bin\Debug\Server.exe
+E:\C# and winform\MutipleClient\Server\bin\Debug\Server.pdb
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.ServerForm.resources
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.Properties.Resources.resources
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.exe
+E:\C# and winform\MutipleClient\Server\obj\Debug\Server.pdb
+E:\NETFramework\Socket\MutipleClient\Server\bin\Debug\Server.exe.config
+E:\NETFramework\Socket\MutipleClient\Server\bin\Debug\Server.exe
+E:\NETFramework\Socket\MutipleClient\Server\bin\Debug\Server.pdb
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.ServerForm.resources
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.Properties.Resources.resources
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.exe
+E:\NETFramework\Socket\MutipleClient\Server\obj\Debug\Server.pdb
