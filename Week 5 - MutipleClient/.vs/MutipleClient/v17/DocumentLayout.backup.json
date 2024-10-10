@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NETFramework\\Socket\\MutipleClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5753F-2DA6-4FBB-86B8-1CAEB8D54AC1}|Client\\Client.csproj|e:\\netframework\\socket\\mutipleclient\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5753F-2DA6-4FBB-86B8-1CAEB8D54AC1}|Client\\Client.csproj|solutionrelative:client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB528C-FFA7-4E3D-A72E-DC457CF111F4}|Server\\Server.csproj|E:\\NETFramework\\Socket\\MutipleClient\\server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB528C-FFA7-4E3D-A72E-DC457CF111F4}|Server\\Server.csproj|solutionrelative:server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5753F-2DA6-4FBB-86B8-1CAEB8D54AC1}|Client\\Client.csproj|E:\\NETFramework\\Socket\\MutipleClient\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFC5753F-2DA6-4FBB-86B8-1CAEB8D54AC1}|Client\\Client.csproj|solutionrelative:client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB528C-FFA7-4E3D-A72E-DC457CF111F4}|Server\\Server.csproj|E:\\NETFramework\\Socket\\MutipleClient\\server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DB528C-FFA7-4E3D-A72E-DC457CF111F4}|Server\\Server.csproj|solutionrelative:server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerForm.cs",
+              "DocumentMoniker": "E:\\NETFramework\\Socket\\MutipleClient\\Server\\ServerForm.cs",
+              "RelativeDocumentMoniker": "Server\\ServerForm.cs",
+              "ToolTip": "E:\\NETFramework\\Socket\\MutipleClient\\Server\\ServerForm.cs",
+              "RelativeToolTip": "Server\\ServerForm.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwKMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:01:05.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "E:\\NETFramework\\Socket\\MutipleClient\\Client\\ClientForm.cs",
+              "RelativeDocumentMoniker": "Client\\ClientForm.cs",
+              "ToolTip": "E:\\NETFramework\\Socket\\MutipleClient\\Client\\ClientForm.cs",
+              "RelativeToolTip": "Client\\ClientForm.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwI4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:57:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientForm.cs [Design]",
+              "DocumentMoniker": "E:\\NETFramework\\Socket\\MutipleClient\\Client\\ClientForm.cs",
+              "RelativeDocumentMoniker": "Client\\ClientForm.cs",
+              "ToolTip": "E:\\C# and winform\\MutipleClient\\Client\\ClientForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\C# and winform\\MutipleClient\\Client\\ClientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:55:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerForm.cs [Design]",
+              "DocumentMoniker": "E:\\NETFramework\\Socket\\MutipleClient\\Server\\ServerForm.cs",
+              "RelativeDocumentMoniker": "Server\\ServerForm.cs",
+              "ToolTip": "E:\\C# and winform\\MutipleClient\\Server\\ServerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\C# and winform\\MutipleClient\\Server\\ServerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:55:37.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
